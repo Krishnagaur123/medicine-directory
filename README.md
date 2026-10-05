@@ -1,6 +1,6 @@
 # Medicine Directory
 
-A Next.js app to search FDA-approved drug labels, dosage info, active ingredients, and safety warnings.
+A Next.js app to search FDA-approved drug labels, dosage info, active ingredients, and safety warnings. Very simple and working model .
 
 Live Link - [https://merry-moonbeam-63520a.netlify.app/
 ](https://merry-moonbeam-63520a.netlify.app/)
