@@ -2,6 +2,8 @@
 
 A Next.js app to search FDA-approved drug labels, dosage info, active ingredients, and safety warnings.
 
+Live Link - [https://merry-moonbeam-63520a.netlify.app/
+](https://merry-moonbeam-63520a.netlify.app/)
 ## Tech Stack
 
 - Next.js 16 (App Router)
